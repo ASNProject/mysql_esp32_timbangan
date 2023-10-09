@@ -1,5 +1,11 @@
 # mysql_esp32_timbangan
 
+API
+```
+https://app-574b3b2b-05f4-4a14-a811-fd215c1e4fdf.cleverapps.io/load
+```
+
+
 Post API 
 ```
 void postData(String berat) {
